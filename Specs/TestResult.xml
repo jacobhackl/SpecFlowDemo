@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\Specs.csproj" total="1" errors="0" failures="0" not-run="0" inconclusive="1" ignored="0" skipped="0" invalid="0" date="2011-02-07" time="16:46:50">
+  <environment nunit-version="2.5.7.10213" clr-version="2.0.50727.4952" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0" machine-name="WIN-75KLNBR3K0D" user="Jacob Hackl" user-domain="WIN-75KLNBR3K0D" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\Specs.csproj" executed="True" result="Inconclusive" success="False" time="2.551" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\Specs.dll" executed="True" result="Inconclusive" success="False" time="2.222" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Specs" executed="True" result="Inconclusive" success="False" time="2.222" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="ScoringFeature" description="Scoring" executed="True" result="Inconclusive" success="False" time="2.222" asserts="0">
+                <results>
+                  <test-case name="Specs.ScoringFeature.BowlingAStrike" description="Bowling a strike" executed="True" result="Inconclusive" success="False" time="0.798" asserts="3">
+                    <reason>
+                      <message><![CDATA[No matching step definition found for one or more steps.
+[Binding]
+public class StepDefinitions
+{
+    [Then(@"I should hear Green Day")]
+public void ThenIShouldHearGreenDay()
+{
+    ScenarioContext.Current.Pending();
+}
+}
+]]></message>
+                    </reason>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

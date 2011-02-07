@@ -1,0 +1,5 @@
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\SuperBowlingScorer\bin\Debug\SuperBowlingScorer.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\SuperBowlingScorer\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\SuperBowlingScorer\obj\Debug\SuperBowlingScorer.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\SuperBowlingScorer\obj\Debug\SuperBowlingScorer.pdb
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\SuperBowlingScorer\bin\Debug\SuperBowlingScorer.pdb

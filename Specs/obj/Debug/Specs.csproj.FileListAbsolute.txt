@@ -1,0 +1,13 @@
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\Specs.dll.config
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\Specs.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\Specs.pdb
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\nunit.framework.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\nunit.mocks.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\pnunit.framework.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\SuperBowlingScorer.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\TechTalk.SpecFlow.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\SuperBowlingScorer.pdb
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\bin\Debug\nunit.framework.xml
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\obj\Debug\Specs.dll
+E:\Code\dev\SpecFlowDemo\SpecFlowDemo\Specs\obj\Debug\Specs.pdb
